@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Seite im Aufbau</title>
+<title>Seite im Aufbau | kulturbanause<sup>&reg;</sup></title>
 <meta name="robots" content="noindex" />
 
 <style type="text/css"> 
